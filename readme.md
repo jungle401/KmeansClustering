@@ -1,3 +1,5 @@
+Implemented k-means clustering onto images and visualize the clustering process. Cluster centers are set manually and each pixel is initially classified to it's nearest center. The clustering process should make pixels form a figure close to the source images.
+
 Sample 1: <br />
 <img src="/data/image1.png" alt="Alt text" title="Optional title"> <br />
 
